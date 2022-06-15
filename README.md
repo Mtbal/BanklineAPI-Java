@@ -1,6 +1,6 @@
 # Bankline API - Java backend development
 
-🛠️ Technologies
+🛠️ Technologies <br />
 Java <br />
 PostgreSQL <br />
 Spring Boot <br />
