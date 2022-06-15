@@ -1,7 +1,14 @@
-# Read Me First
-The following was discovered as part of building this project:
+# Bankline API - Java backend development
 
-* The original package name 'com.dio.santander.bankline-api' is invalid and this project uses 'com.dio.santander.banklineapi' instead.
+🛠️ Technologies
+Java <br />
+PostgreSQL <br />
+Spring Boot <br />
+
+💻 About the project
+
+The project was based on the proposal of a Bankline for the management
+of account holders and movements of income and expenses.
 
 # Getting Started
 
